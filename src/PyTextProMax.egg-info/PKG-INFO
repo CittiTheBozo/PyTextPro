@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: PyTextProMax
+Version: 2.5
+Summary: A simple but useful python library.
+Author-email: Cittidabozo <diabetolover@gmail.com>
+Project-URL: Homepage, https://github.com/CittiTheBozo/PyTextProMax
+Project-URL: Bug Tracker, https://github.com/CittiTheBozo/PyTextProMax/issues
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 <!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start="0" data-line-end="1"><a id="PyTextProMax_0"></a>PyTextProMax</h1>
 <h4 class="code-line" data-line-start="1" data-line-end="2"><a id="A_simple_but_useful_python_library_1"></a>A simple but useful python library.</h4>
