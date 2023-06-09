@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>README.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start="0" data-line-end="1"><a id="PyTextPro_0"></a>PyTextPro</h1>
 <h4 class="code-line" data-line-start="1" data-line-end="2"><a id="A_simple_but_useful_python_library_1"></a>A simple but useful python library.</h4>
 <h6 class="code-line" data-line-start="3" data-line-end="4"><a id="POEWERED_BY_CITTIDABOZOhttpsgithubcomCittiTheBozo_3"></a><a href="https://github.com/CittiTheBozo">POEWERED BY CITTIDABOZO</a></h6>
