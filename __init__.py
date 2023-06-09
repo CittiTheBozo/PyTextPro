@@ -6,7 +6,7 @@ from nltk import ne_chunk
 import spacy
 import nltk
 
-class PyTextUltimate:
+class PyTextUltra:
     import os
     try:
         nltk.data.find('tokenizers/punkt')
@@ -74,10 +74,10 @@ class PyTextUltimate:
 
 if __name__ == '__main__':
     text = "The Apple Inc. is planning on opening a new store in San Francisco. The CEO (Tim Cook) will be attending the opening ceremony along with some other executives. I find this really fascinating!"
-    PyTextUltimate = PyTextUltimate()
-    emotion = PyTextUltimate.get_emotion(text)
-    listofkeywords = PyTextUltimate.extract_keywords(text)
-    listofentities = PyTextUltimate.get_entities(text)
+    PyTextUltra = PyTextUltra()
+    emotion = PyTextUltra.get_emotion(text)
+    listofkeywords = PyTextUltra.extract_keywords(text)
+    listofentities = PyTextUltra.get_entities(text)
 
     keywords = ''
     for index, keyword in enumerate(listofkeywords):

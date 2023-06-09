@@ -1,13 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'PyTextUltimate',
+  name = 'PyTextUltra',
   version = '1.0',
   license='MIT',
+  scripts= ['__init__.py'],
   description = 'A python library that can help categorize sentences.',
   author = 'Cittidabozo',
   author_email = 'diabetolover@gmail.com',
-  url = 'https://github.com/CittiTheBozo/PyTextUltimate',
-  download_url = 'https://github.com/CittiTheBozo/PyTextUltimate/releases/tag/v1.0.0/',
+  url = 'https://github.com/CittiTheBozo/PyTextUltra',
+  download_url = 'https://github.com/CittiTheBozo/PyTextUltra/releases/tag/v1.0.0/',
   keywords = ['text', 'handling', 'useful', 'emotion'],
   install_requires=[
           'nltk',
