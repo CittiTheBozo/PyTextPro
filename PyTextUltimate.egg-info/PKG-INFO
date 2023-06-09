@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: PyTextUltimate
+Version: 1.0
+Summary: A python library that can help categorize sentences.
+Home-page: https://github.com/CittiTheBozo/PyTextUltimate
+Download-URL: https://github.com/CittiTheBozo/PyTextUltimate/releases/tag/v1.0.0/
+Author: Cittidabozo
+Author-email: diabetolover@gmail.com
+License: MIT
+Keywords: text,handling,useful,emotion
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENSE.txt

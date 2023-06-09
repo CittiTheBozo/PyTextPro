@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+PyTextUltimate.egg-info/PKG-INFO
+PyTextUltimate.egg-info/SOURCES.txt
+PyTextUltimate.egg-info/dependency_links.txt
+PyTextUltimate.egg-info/requires.txt
+PyTextUltimate.egg-info/top_level.txt
